@@ -16,7 +16,7 @@
     <h2>Educational Background</h2>
     <ul>
       <li><strong>Primary & Secondary: </strong>St Anthony de Carmelli Academy Incorporation</li>
-      <li><strong>Tertiary: </strong>La consolacion College Binan</li>
+      <li><strong>Tertiary: </strong>La Consolacion College Binan</li>
     </ul>
     <h2>Hobbies</h2>
     <ul>
