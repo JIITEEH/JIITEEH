@@ -5,7 +5,7 @@
     <h2>Personal Information</h2>
     <ul>
       <li><strong>Name:</strong> John terence Catimbang</li>
-      <li><strong>Location: </strong> Cedar 4, Lantic Carmona Estates, Carmona, Cavite </li>
+      <li><strong>Location: </strong> Cedar 4, Lantic, Carmona Estates, Carmona, Cavite</li>
       <li><strong>Contact: </strong>
         <ul>
           <li>09691830415</li>
